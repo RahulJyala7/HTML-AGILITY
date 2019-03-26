@@ -1,0 +1,11 @@
+D:\html-agility\bin\Debug\netcoreapp2.2\html-agility.deps.json
+D:\html-agility\bin\Debug\netcoreapp2.2\html-agility.runtimeconfig.json
+D:\html-agility\bin\Debug\netcoreapp2.2\html-agility.runtimeconfig.dev.json
+D:\html-agility\bin\Debug\netcoreapp2.2\html-agility.dll
+D:\html-agility\bin\Debug\netcoreapp2.2\html-agility.pdb
+D:\html-agility\obj\Debug\netcoreapp2.2\html-agility.csprojAssemblyReference.cache
+D:\html-agility\obj\Debug\netcoreapp2.2\html-agility.csproj.CoreCompileInputs.cache
+D:\html-agility\obj\Debug\netcoreapp2.2\html-agility.AssemblyInfoInputs.cache
+D:\html-agility\obj\Debug\netcoreapp2.2\html-agility.AssemblyInfo.cs
+D:\html-agility\obj\Debug\netcoreapp2.2\html-agility.dll
+D:\html-agility\obj\Debug\netcoreapp2.2\html-agility.pdb
